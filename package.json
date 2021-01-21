@@ -1,0 +1,16 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "Classic Snake game basic written on JavaScript vanilla",
+  "main": "index.html",
+  "repository": "https://github.com/megabass00/snake-game.git",
+  "author": "megabass00",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server . -p 80"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "dependencies": {}
+}
